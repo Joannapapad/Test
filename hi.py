@@ -1,1 +1,1 @@
-print("HEllo")
+print("telemetry sucks")
